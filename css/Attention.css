@@ -1,0 +1,53 @@
+*{margin: 0;padding: 0;}
+li{list-style: none;}
+a{text-decoration: none;color: #333;font-family: Microsoft yahei;font-size: 0.16rem;}
+html,body{width: 100%;height: 100%;background: #f1f1f1;}
+.top{width: 100%;height: 0.74rem;background: #0CC440;text-align: center;-webkit-box-sizing: border-box;-o-box-sizing: border-box;box-sizing: border-box;padding-top: 0.15rem;}
+.top_ul{width: 2.12rem;height: 0.44rem;border-radius: 0.3rem;overflow: hidden;margin: 0 auto;}
+.top_ul li{float: left;}
+.top_ul li a{display: block;width: 1.06rem;height: 0.44rem;text-align: center;line-height: 0.44rem;}
+.top_a2{background: rgba(255,255,255,.6);color: #fff;}
+.top_a1{background: rgba(255,255,255,.4);color: rgba(255,255,255,.6);}
+.main{width: 100%;height: auto;margin-top: 0.1rem;}
+.main_top{width: 100%;height: 1.4rem;-webkit-box-sizing: border-box;box-sizing: border-box;padding-top: 0.19rem;padding-left: 0.23rem; border: 0.01rem solid #E5E5E5;background: #fff;}
+.avatar{width: 0.95rem;height: 0.95rem;float: left;}
+.avatar img{width: 100%;height: 100%;}
+.name{width: 3.06rem;margin-left: 0.18rem;float: left;}
+.name b{display: block;font-size: 0.28rem;font-family: Microsoft yahei;}
+.name p{width:3.77rem;height:0.5rem;line-height:0.5rem;font-size:0.23rem;color:#989898;}
+.praise{width: 0.3rem;height: 0.27rem;margin: 0.1rem 0 0 0.56rem;float: left;}
+.praise p{font-size: 0.20rem;color: #ccc;float: left;font-family: Microsoft yahei;}
+.praise img{width: 0.23rem;height: 0.23rem;float: left;margin-left: 0.1rem;}
+.main_img{width: 100%;height: 5.66rem;}
+.main_img img{width: 100%;height: 100%;}
+.main_comment{display: block;-webkit-box-sizing: border-box; height: 0.68rem;width: 100%;padding-left: 0.4rem;font-size: 0.29rem;line-height: 0.68rem;font-family: Microsoft yahei;background: #fff;}
+#footer_dl1 .dl_text1{color: #0CC440;}
+.dl_imgh1{display: none;}
+.dl_imgh2{display: none;}
+.dl_imgh3{display: none;}
+.dl_imgh4{display: none;}
+.div_img2{display: none;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

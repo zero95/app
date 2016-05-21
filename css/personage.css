@@ -1,0 +1,38 @@
+*{padding:0;margin:0;}
+		.header{width:100%;height:0.85rem;background:#0CC440;text-align:center;border-bottom:0.09rem solid #F1F1F1;}
+		.header span{display:block;font-size:0.43rem;color:#F7FFF9;padding:0.2rem;-webkit-box-sizing:border-box;-moz-box-sizing:border;box-sizing:border-box;}
+		section{width:100%;}
+		.Pikachu{width:4.24rem;height:0.92rem;margin:0.17rem 0 0.17rem 0.22rem;}
+		.Pikachu dt{width:0.96rem;height:0.92rem;float:left;}
+		.Pikachu dt img{width:100%;height:100%;}
+		.Pikachu dd{width:3.28rem;height:0.92rem;float:left;padding-left:0.18rem;-webkit-box-sizing:border-box;}
+		.Pikachu dd h3{width:3.12rem;height:0.46rem;line-height:0.46rem;font-size:0.28rem;color:#464646;}
+		.Pikachu dd p{width:3.12rem;height:0.46rem;line-height:0.46rem;font-size:0.22rem;color:#CFCFCF;}
+		nav{width:100%;height:0.66rem;}
+		nav .tab{height:0.66rem;width:6.4rem;margin:0 auto;}
+		.tab-nav{border-bottom:0.05rem solid #0EC244;color:#1DBB4C;}
+		.tab li{list-style:none;float:left;}
+		.tab li a{display:block;height:0.66rem;width:2.133rem;line-height:0.66rem;color:#8D8D8D;font-size:0.31rem;text-align:center;}
+		
+
+
+.swiper-container{width: 100%;}
+.slide1,.slide2,.slide3{width: 100%;height: auto;}
+.slide1 dl{width:50%;height:3.73rem;padding:0.1rem 0.12rem 0.1rem 0;float:left;-webkit-box-sizing:border-box;box-sizing:border-box;box-sizing:-moz-border-box;}
+.slide1 dl dt{width:3.10rem;height:3.13rem;border:0.01rem solid #E8E8E8;-webkit-box-sizing:border-box;box-sizing:border-box;box-sizing:-moz-border-box;}
+.slide1 dl dt img{height:100%;height:100%;}
+.slide1 dl dd{width:3.10rem;height:0.58rem;line-height:0.58rem;font-size:0.24rem;padding-left:0.21rem;border:0.01rem solid #E8E8E8;color:#333333;-webkit-box-sizing:border-box;box-sizing:border-box;box-sizing:-moz-border-box;}
+
+
+#footer_dl3 .dl_text3{color:#0CC440;}
+.dl_img1{display:none;}
+.dl_imgh1{display:block;}
+
+.dl_img2{display: block;}
+.dl_imgh2{display:none;}
+
+.dl_imgh3{display:block;}
+.dl_img3{display:none;}
+
+.dl_imgh4{display:none;}
+.div_img4{display:block;}
